@@ -7,11 +7,11 @@ Tenía que ser compatible con iOS y Android y consumir las API’s públicas pro
 
 ### Features
 
-Home
-Video
-Favoritos
-Menú
-Funcionalidad Offline
+1. Home
+2. Video
+3. Favoritos
+4. Menú con categorías
+5. Funcionalidad Offline
 
 ### Installation
 
